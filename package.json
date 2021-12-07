@@ -1,0 +1,15 @@
+{
+  "name": "live-tat-46-js-para-qas-5-oo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
